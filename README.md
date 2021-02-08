@@ -10,4 +10,4 @@
 Функционал JS
 
 ## GitHub Pages
-https://mfortal.github.io/js-game-PokemonFight/.
+https://mfortal.github.io/js-game-PokemonFight/
